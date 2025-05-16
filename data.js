@@ -4,7 +4,7 @@ const playersData =[
     age: "23",
     country: "Italy",
     sportsName: "Tennis",
-    flag: "images/Flag_of_Italy.svg.png",
+    flag: "Flag_of_Italy.svg.png",
     link: "https://en.wikipedia.org/wiki/Jannik_Sinner"
     },
 

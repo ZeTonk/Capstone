@@ -1,0 +1,22 @@
+.dark-Theme{
+    background-color: #000000;
+    color: #00ff11;
+    --button-bg-color:#15ff00;
+    --button-text-color:#000000;
+    --border-color: #00ff11;
+    --h1-color:#00ff11;
+    --input-bg-color: rgb(39, 38, 38);
+    --player-card-bg-color:rgb(71, 70, 70);
+}
+:root{
+    --background-color: #ffffff;;
+    --text-color: #ff0a0a;;
+   --button-bg-color:#ff0606;
+    --button-text-color:#ffffff;
+    --border-color:#ff0606;
+    --color:#ff0a0a;
+    --card-bg: #ffffff;
+    --input-bg-color: rgb(255, 255, 255);
+    --card-shadow: rgba(0,0,0,0.1);
+    --player-card-bg-color:#ffffff;
+}
